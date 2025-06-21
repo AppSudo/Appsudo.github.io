@@ -9,8 +9,6 @@ title: Community Guidelines
 
 ---
 
-Test
-
 These community guidelines explain expected behavior and acceptable content when using the Appsudo platform. We’re committed to building a civil, respectful, and welcoming experience for everyone.
 
 All users of the app must follow these guidelines in addition to our [Terms of Service](link-to-your-terms.html). We will enforce these rules, and violations may lead to account termination.
